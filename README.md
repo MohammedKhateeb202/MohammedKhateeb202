@@ -8,11 +8,11 @@ About Me: Passionate and motivated IT student with a strong foundation in progra
 
 Technical Skills:
 
-✔ Programming: Python, Java, C++, JavaScript
-✔ Web Development: HTML, CSS, React, Node.js
+✔ Programming: Python, JavaScript, php
+✔ Web Development: HTML, CSS, Laravel, React
 ✔ Databases: SQL, MySQL
 ✔ Networking: Cisco CCNA Basics, TCP/IP
-✔ Operating Systems: Windows, Linux (Ubuntu)
+✔ Operating Systems: Windows
 ✔ Tools: Git, VMware
 
 * 🌍  I'm based in Syria/Homs
