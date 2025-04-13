@@ -4,7 +4,15 @@ Hi 👋 My name is Mohammed
 IT Student
 ----------
 
-About Me: Passionate and motivated IT student with a strong foundation in programming, networking, and system administration. Eager to apply theoretical knowledge to real-world challenges through internships, projects, and collaborative learning. Skilled in problem-solving, software development, and IT infrastructure management, with a keen interest in emerging technologies like AI, cybersecurity, and cloud computing. Technical Skills: ✔ Programming: Python, Java, C++, JavaScript ✔ Web Development: HTML, CSS, React, Node.js ✔ Databases: SQL, MySQL ✔ Networking: Cisco CCNA Basics, TCP/IP ✔ Operating Systems: Windows, Linux (Ubuntu) ✔ Tools: Git, VMware
+About Me: Passionate and motivated IT student with a strong foundation in programming, networking, and system administration. Eager to apply theoretical knowledge to real-world challenges through internships, projects, and collaborative learning. Skilled in problem-solving, software development, and IT infrastructure management, with a keen interest in emerging technologies like AI, cybersecurity, and cloud computing.
+
+Technical Skills:
+✔ Programming: Python, Java, C++, JavaScript 
+✔ Web Development: HTML, CSS, React, Node.js 
+✔ Databases: SQL, MySQL 
+✔ Networking: Cisco CCNA Basics, TCP/IP 
+✔ Operating Systems: Windows, Linux (Ubuntu) 
+✔ Tools: Git, VMware
 
 * 🌍  I'm based in Syria/Homs
 * 🖥️  See my portfolio at [MyProfile:](http://github.com/ACT00M)
